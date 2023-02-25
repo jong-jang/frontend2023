@@ -1,2 +1,6 @@
-# frontend2023
-my 2023 frontend roadmap
+# 2023 프론트엔드
+
+## 학습한 기술
+- html
+- css
+- javascript
